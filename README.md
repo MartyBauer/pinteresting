@@ -1,6 +1,8 @@
 # One Month Rails
 
 This is the pinteresting sample application for 
-[*One Month Rails*] (http://onemonthrails.com)
+[*Marty learning Rails*] (http://onemonthrails.com)
 
-by [Marty Bauer](https://MartyBauer.com)
+
+
+by [Marty Bauer](https://twitter.com/bauermarty)
